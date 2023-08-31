@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @luizgnm (Luiz Machado)
-- 👀 I’m interested in increasingly learn!
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript.
 
 <!---
